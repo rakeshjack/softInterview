@@ -56,3 +56,5 @@ $route['translate_uri_dashes'] = FALSE;
 $route['employee-dashboard'] = 'dashboard/employee_dashboard';
 $route['company-profile'] = 'dashboard/company_profile';
 $route['empoyee-register'] = 'dashboard/register';
+
+$route['login-check'] = 'welcome/login_check';

@@ -1,7 +1,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-4 col-sm-offset-4">
-        <form class="form-signin" method="POST" action="login_check">
+        <form class="form-signin" method="POST" action="index.php/welcome/login_check">
             <h2 class="form-signin-heading">Please sign in</h2>
             <label for="inputEmail" class="sr-only">Email address</label>
             <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
